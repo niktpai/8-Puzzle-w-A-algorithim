@@ -8,7 +8,7 @@ For this particular implementation, we will be using the Manhattan distance as o
 
 The graphical user interface (GUI) of the program is divided into two sections. The top part is responsible for solving and displaying a single solution to the puzzle, while the bottom part solves multiple problems and generates the desired statistics.
 
-[Video Explanation]((https://youtu.be/XgvSqh2mn98?si=G7jy1vFIXzjrmEIa))
+[Video Explanation](https://youtu.be/XgvSqh2mn98?si=G7jy1vFIXzjrmEIa)
 
 ## Startup
 
